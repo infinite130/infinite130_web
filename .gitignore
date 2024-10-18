@@ -8,6 +8,15 @@ build/
 # Ignore application.yml
 src/main/resources/application.yml
 
+gradle/wrapper/
+.gitattributes
+HELP.md
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
+
+
 ### STS ###
 .apt_generated
 .classpath
